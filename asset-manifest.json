@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/hw19-hook2/static/css/main.a13e47c7.css",
+    "main.js": "/hw19-hook2/static/js/main.5d47a6dc.js",
+    "index.html": "/hw19-hook2/index.html",
+    "main.a13e47c7.css.map": "/hw19-hook2/static/css/main.a13e47c7.css.map",
+    "main.5d47a6dc.js.map": "/hw19-hook2/static/js/main.5d47a6dc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a13e47c7.css",
+    "static/js/main.5d47a6dc.js"
+  ]
+}
